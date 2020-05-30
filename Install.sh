@@ -12,3 +12,6 @@ apt install python3
 apt install pip3
 pip3 install flask
 apt install openssh
+apt install unzip
+unzip templates.zip
+rm -r templates.zip
